@@ -39,4 +39,4 @@ A continuacion se detalla la funcion dentro del sistema de cada uno de los usuar
 #### **Contribución**
 
 ##### **Licencia**
-![](logoIESMHP.png)
+![a](logoIESMHP.png)
