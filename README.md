@@ -36,7 +36,7 @@ A continuacion se detalla la funcion dentro del sistema de cada uno de los usuar
 |Medico|Gestiona citas, consulta historiales, emite recetas|
 |Administrador|Administra personal, informes y facturacion.|
 
-#### Contribución
+#### **Contribución**
 
-##### Licencia
-![a](logoIESMHP.png)
+##### **Licencia**
+![](logoIESMHP.png)
