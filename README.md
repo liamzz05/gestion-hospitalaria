@@ -26,8 +26,17 @@ El sistema hospitalario incluye las siguientes funcionalidades principales:
 + Administracion del personal sanitario
 + Facturacion y revision de informes medicos
 
-|**Usuario** |**Funcinalidad**|
+Para utilizar la aplicacion, sigue las instrucciones proporcionadas en la interfaz de usuario o consulta la documentacion del usuario incluida en el repositorio.
+
+A continuacion se detalla la funcion dentro del sistema de cada uno de los usuarios:
+
+|**Usuario** |**Funcionalidad**|
 |------------|----------------|
 |Paciente|Solicita citas, accede a su historial, contacta con el medico.|
 |Medico|Gestiona citas, consulta historiales, emite recetas|
 |Administrador|Administra personal, informes y facturacion.|
+
+#### Contribución
+
+##### Licencia
+![a](logoIESMHP.png)
